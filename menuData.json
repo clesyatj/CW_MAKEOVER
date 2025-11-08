@@ -1,0 +1,104 @@
+[
+    {
+        "namaProduk": "AMERICANO ARABICA",
+        "image": "assets/long-black-460x460.jpg",
+        "alt": "AMERICANO ARABICA",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "ARABICA COFFEE MILK",
+        "image": "assets/arabika-coffee-milk-460x460.webp",
+        "alt": "ARABICA COFFEE MILK",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "ARENGA COFFEE",
+        "image": "assets/cafe-latte-460x460.jpg",
+        "alt": "ARENGA COFFEE",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "AVOCADO COFFEE",
+        "image": "assets/avocado-coffee-460x460.webp",
+        "alt": "AVOCADO COFFEE",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "BAKPAO PANDAN",
+        "image": "assets/bakpao-pandan-460x460.jpg",
+        "alt": "BAKPAO PANDAN",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BAKPAO TELUR ASIN",
+        "image": "assets/bakpao-telur-asin-460x460.jpg",
+        "alt": "BAKPAO TELUR ASIN",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BANANA CHOCOLATE & CHEESE",
+        "image": "assets/banana-coklat-keju-460x460.jpg",
+        "alt": "BANANA CHOCOLATE & CHEESE",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BEEF BLACKPEPPER",
+        "image": "assets/beef-black-papper-460x460.jpg",
+        "alt": "BEEF BLACKPEPPER",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BEEF BULGOGI",
+        "image": "assets/beef-bulgogi-460x460.jpg",
+        "alt": "BEEF BULGOGI",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BEEF CHILI PADI",
+        "image": "assets/beef-chili-padi-460x460.jpg",
+        "alt": "BEEF CHILI PADI",
+        "kategori": "food"
+    },
+    {
+        "namaProduk": "BLACK SESAME COFFEE",
+        "image": "assets/black-sesame-coffee-460x460.webp",
+        "alt": "BLACK SESAME COFFEE",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "BROWN SUGAR BOBA MILK",
+        "image": "assets/brown-sugar-boba-latte-460x460.jpg",
+        "alt": "BROWN SUGAR BOBA MILK",
+        "kategori": "non coffee"
+    },
+    {
+        "namaProduk": "CAFFE LATTE",
+        "image": "assets/cafe-latte-460x460.jpg",
+        "alt": "CAFFE LATTE",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "CAPPUCCINO",
+        "image": "assets/capucino-460x460.jpg",
+        "alt": "CAPPUCCINO",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "CAPPUCCINO CINCAU",
+        "image": "assets/capuccino-cincau-460x460.jpg",
+        "alt": "CAPPUCCINO CINCAU",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "CARAMEL COFFEE",
+        "image": "assets/caramel-coffee-460x460.jpg",
+        "alt": "CARAMEL COFFEE",
+        "kategori": "coffee"
+    },
+    {
+        "namaProduk": "GANTUNGAN KUNCI",
+        "image": "assets/gantungan-kunci-cupArtboard-5-460x460.jpg",
+        "alt": "GANTUNGAN KUNCI",
+        "kategori": "merch"
+    }
+]
