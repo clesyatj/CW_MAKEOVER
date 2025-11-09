@@ -100,7 +100,6 @@
     const menuTitle = document.getElementById('menuTitle');
     const allMenuIcon = document.getElementById('allMenuIcon'); 
 
-    //membuat menuData dri file json
     async function loadMenuData() {
         try {
             const response = await fetch('menuData.json');
@@ -115,9 +114,7 @@
         }
     }
 
-    //elemen menu
     function createMenuItem(item) {
-
         const div = document.createElement('div');
         div.className = 'menu-item text-center group';
         div.setAttribute('data-name', item.namaProduk);
@@ -133,7 +130,6 @@
         return div;
     }
 
-    //render menu
     function renderMenu(data) {
         menuGrid.innerHTML = '';
         data.forEach(item => {
@@ -143,7 +139,6 @@
 
     let activeCategory = 'all';
 
-    // filter kategori
     function filterByCategory(category) {
         event.preventDefault();
 
@@ -188,7 +183,7 @@
     }
 
 
-        document.addEventListener('DOMContentLoaded', () => {
-            loadMenuData();
-        });
-    </script>
+    document.addEventListener('DOMContentLoaded', () => {
+        loadMenuData();
+    });
+</script>

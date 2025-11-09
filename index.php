@@ -5,82 +5,18 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Home - CW Coffee</title>
+    <link rel="icon" type="image/webp" href="assets/logo-cw.webp">
 </head>
 
 <body class="bg-[#F2F2FF]">
     <?php include 'navbar.php'; ?>
     <!-- <iframe src="navbar.php" style="width: 100%;"></iframe> -->
 
-    <!-- <div class="flex">
-        <div class="max-w-sm rounded overflow-hidden shadow-lg m-12">
-            <img class="w-full"
-                src="https://images.unsplash.com/photo-1761578571404-f7e0fa2ff634?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
-                alt="Sunset in the mountains">
-            <div class="px-6 py-4">
-                <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-                <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et
-                    perferendis eaque, exercitationem praesentium nihil.
-                </p>
-            </div>
-            <div class="px-6 pt-4 pb-2">
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
-            </div>
-        </div>
-
-        <div class="max-w-sm rounded overflow-hidden shadow-lg m-12">
-            <img class="w-full"
-                src="https://images.unsplash.com/photo-1761578571404-f7e0fa2ff634?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
-                alt="Sunset in the mountains">
-            <div class="px-6 py-4">
-                <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-                <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et
-                    perferendis eaque, exercitationem praesentium nihil.
-                </p>
-            </div>
-            <div class="px-6 pt-4 pb-2">
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
-            </div>
-        </div>
-
-        <div class="max-w-sm rounded overflow-hidden shadow-lg m-12">
-            <img class="w-full"
-                src="https://images.unsplash.com/photo-1761578571404-f7e0fa2ff634?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880"
-                alt="Sunset in the mountains">
-            <div class="px-6 py-4">
-                <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
-                <p class="text-gray-700 text-base">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et
-                    perferendis eaque, exercitationem praesentium nihil.
-                </p>
-            </div>
-            <div class="px-6 pt-4 pb-2">
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-                <span
-                    class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- hero banner -->
     <img src="assets/hero-banner.png" class="w-screen" />
+    <div class="max-w-6xl mx-auto px-6 py-12">
 
     <div class="max-w-screen-xl mx-auto pb-20">
-        <!-- about us section -->
         <div class="mt-24 flex gap-20">
             <img src="assets/about-us-image.png" class="w-1/3" />
 
@@ -143,7 +79,6 @@
             </div>
         </div>
 
-        <!-- premium coffee beans section -->
         <div class="mt-24">
             <h2 class="text-[#0A225E] text-5xl font-bold uppercase">Premium Coffee Beans</h2>
 
@@ -168,14 +103,12 @@
             </div>
         </div>
 
-        <!-- follow us section -->
         <div class="mt-24">
             <h2 class="text-[#0A225E] text-5xl font-bold uppercase">Follow Us</h2>
 
             <img src="assets/follow-us-banner.png" class="mt-12" />
         </div>
 
-        <!-- our menu section -->
         <div class="mt-24">
             <div class="flex justify-between items-center">
                 <h2 class="text-[#0A225E] text-5xl font-bold uppercase">Our Menu</h2>
@@ -217,6 +150,7 @@
             <button class="mt-12 bg-[#0A225E] text-lg text-white px-12 py-3 rounded-full">Contact</button>
         </div>
     </div>
+</div>
     <?php include 'footer.php'; ?>
 </body>
 
